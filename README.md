@@ -2,7 +2,7 @@
 
 * Proj 1.R: This is the main file of the project. The data is downloaded, unzipped, loaded and prepared for the analysis in this file. This file is sourced in other plot files to prepare the needed data.
 
-* `plots` directory: Contains the graphic files containing the plots.
+* `plot` directory: Contains the graphic files containing the plots.
 
 * plot1 .. plot4.R: Code for generating the plots.
 
