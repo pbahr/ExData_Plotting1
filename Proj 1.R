@@ -1,4 +1,5 @@
-setwd("./ExData_Plotting1/")
+# This is needed in RStudio since I have the project folder as the parent for this folder
+# setwd("./ExData_Plotting1/")
 
 # Download and unzip data file
 if (!file.exists("data"))
