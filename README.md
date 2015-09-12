@@ -1,3 +1,7 @@
+## Overview of My Project
+
+* Proj 1.R: This is the main file of the project. The data is downloaded, unzipped, loaded and prepared for the analysis in this file. This file is sourced in other plot files to prepare the needed data.
+
 ## Introduction
 
 This assignment uses data from
