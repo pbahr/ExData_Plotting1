@@ -1,7 +1,7 @@
 # Download, unzip, load and prepare data
 source("Proj 1.R")
 
-par(mfcol= c(2,2), mar= c(4,4,1,2) + .1) # mar=c(4,4,2,2)
+par(mfcol= c(2,2), mar= c(4,4,1,1) + .1) # mar=c(4,4,1,2), default: 5,4,4,2
 
 # Plot #(1,1)
 plot(x= data$DateTime, y=data$Global_active_power, type="l", xlab="", ylab="Global Active Power")
